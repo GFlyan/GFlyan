@@ -6,11 +6,15 @@
 
 <p align="left"><b>Guilherme Flyan Araujo</b></p>
 
+###
+
 <p align="left">
   <code>Software Engineer</code>
 </p>
 
 ###
+
+</br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GFlyan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -55,6 +59,8 @@
 
 ###
 
-![Snake animation](https://raw.githubusercontent.com/GFlyan/GFlyan/output/snake-dark.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GFlyan/GFlyan/main/output/snake-dark.svg" alt="Snake animation" />
+</div>
 
 ###
