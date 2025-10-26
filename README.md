@@ -59,8 +59,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/GFlyan/GFlyan/main/output/snake-dark.svg" alt="Snake animation" />
-</div>
+![Snake animation](https://raw.githubusercontent.com/GFlyan/GFlyan/output/snake-dark.svg)
 
 ###
