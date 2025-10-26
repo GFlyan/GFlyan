@@ -51,14 +51,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/gflyan/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
 ![Snake animation](https://raw.githubusercontent.com/GFlyan/GFlyan/output/snake-dark.svg)
 
 ###
