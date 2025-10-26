@@ -4,9 +4,7 @@
 
 ###
 
-<h1 align="left">Guilherme Flyan Araujo</h1>
-
-###
+<p align="left"><b>Guilherme Flyan Araujo</b></p>
 
 <p align="left">
   <code>Software Engineer</code>
