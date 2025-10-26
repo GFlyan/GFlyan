@@ -57,6 +57,6 @@
 
 ###
 
-![Snake animation](https://github.com/GFlyan/GFlyan/blob/output/snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/GFlyan/GFlyan/output/snake-dark.svg)
 
 ###
